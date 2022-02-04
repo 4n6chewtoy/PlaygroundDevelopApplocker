@@ -1,4 +1,4 @@
-# PlaygroundDevelopApplockerDecrypt
+# PlaygroundDevelopApplocker
 A python script to decrypt media files encrypted using the Android application 'Apps Lock &amp; File Encryption — GOLD version’ (https://play.google.com/store/apps/details?id=playground.develop.applocker).
 Original Blog Post: https://theincidentalchewtoy.wordpress.com/2021/12/12/decrypting-apps-lock-file-encryption-gold-version/
 
